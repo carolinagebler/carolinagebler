@@ -22,7 +22,7 @@ Multidisciplinary executive and technology professional working on AI model eval
 | **Marketing analytics** | Scenario evaluation, constraint-based selection, and data quality checks. |
 | **GIS and remote sensing** | Geospatial analysis, satellite imagery, and GIS-enabled workflows. |
 
-## Cross-sector executive experience
+## Selected impact\n\n- **20+ years** in executive, financial and operational leadership.\n- **US$3M+** in documented project financial recovery over six months.\n- Cross-border commodities and energy trading, corporate finance, AI systems and project approval.\n- **2 million hectares** in eucalyptus resource-base scope.\n\n## Cross-sector executive experience
 
 - Forestry and biomass operations: eucalyptus resource-base scope of approximately **2 million hectares**, including procurement and supply planning responsibilities.
 - International finance, energy trading, agribusiness, logistics, aerospace and project-approval workflows.
