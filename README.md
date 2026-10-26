@@ -15,14 +15,24 @@ Multidisciplinary executive and technology professional working on AI model eval
 | Project / domain | Engineering focus |
 | --- | --- |
 | **Black Eagle** *(private, in development)* | Financial document ingestion, transaction extraction, account reconciliation, exception management, and user-confirmed financial status tracking. |
-| **Legal Case Tracking Platform** *(private, in development)* | Case-number identification, court-record ingestion, procedural tracking, audit trails, and user-reviewed status reconciliation. |\n| **Panda Tower** *(private, in development)* | Mobile-first personal operations and wellness platform exploring dashboard design, data integration, risk indicators, and actionable monitoring. |
-| **Oil & Gas and energy trading** | International contract negotiation and commercial workflows for crude oil, diesel, ethanol and related energy products, including counterparty coordination and contract risk considerations. |\n| **AI-enabled Project Approval** | Financial viability screening, approval logic, DSCR/XIRR and eligibility analysis, evidence-backed risk assessment, and decision-support workflows. |\n| **Repository-level LLM evaluation** | Benchmark design, deterministic checks, failure-mode analysis, reproducible software tests, and rubric-based quality review. |
+| **Legal Case Tracking Platform** *(private, in development)* | Case-number identification, court-record ingestion, procedural tracking, audit trails, and user-reviewed status reconciliation. |
+| **Panda Tower** *(private, in development)* | Mobile-first personal operations and wellness platform exploring dashboard design, data integration, risk indicators, and actionable monitoring. |
+| **Oil & Gas and energy trading** | International contract negotiation and commercial workflows for crude oil, diesel, ethanol and related energy products, including counterparty coordination and contract risk considerations. |
+| **AI-enabled Project Approval** | Financial viability screening, approval logic, DSCR/XIRR and eligibility analysis, evidence-backed risk assessment, and decision-support workflows. |
+| **Repository-level LLM evaluation** | Benchmark design, deterministic checks, failure-mode analysis, reproducible software tests, and rubric-based quality review. |
 | **Compliance and financial analysis** | Rule-based validation, evidence traceability, structured reports, and financial modeling. |
 | **Supply chain, aviation, and logistics** | Traceability, evidence verification, operational exceptions, and complex process auditing. |
 | **Marketing analytics** | Scenario evaluation, constraint-based selection, and data quality checks. |
 | **GIS and remote sensing** | Geospatial analysis, satellite imagery, and GIS-enabled workflows. |
 
-## Selected impact\n\n- **20+ years** in executive, financial and operational leadership.\n- **US$3M+** in documented project financial recovery over six months.\n- Cross-border commodities and energy trading, corporate finance, AI systems and project approval.\n- **2 million hectares** in eucalyptus resource-base scope.\n\n## Cross-sector executive experience
+## Selected impact
+
+- **20+ years** in executive, financial and operational leadership.
+- **US$3M+** in documented project financial recovery over six months.
+- Cross-border commodities and energy trading, corporate finance, AI systems and project approval.
+- **2 million hectares** in eucalyptus resource-base scope.
+
+## Cross-sector executive experience
 
 - Forestry and biomass operations: eucalyptus resource-base scope of approximately **2 million hectares**, including procurement and supply planning responsibilities.
 - International finance, energy trading, agribusiness, logistics, aerospace and project-approval workflows.
@@ -32,7 +42,8 @@ Multidisciplinary executive and technology professional working on AI model eval
 
 - Python, JSON, automated validation, and test-driven quality assurance
 - Git, GitHub, pull requests, debugging, and reproducibility
-- AI evaluation, benchmark engineering, project approval, and model reliability\n- Remote technical collaboration using GitHub and Discord
+- AI evaluation, benchmark engineering, project approval, and model reliability
+- Remote technical collaboration using GitHub and Discord
 - Data workflows, product integration, and structured decision systems
 
 **Confidentiality:** This profile does not publish private source code, client datasets, proprietary benchmarks, medical records, or legal case materials.
