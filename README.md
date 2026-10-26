@@ -14,8 +14,8 @@ Multidisciplinary executive and technology professional working on AI model eval
 
 | Project / domain | Engineering focus |
 | --- | --- |
-| **Black Eagle** *(private, in development)* | Document ingestion, data extraction, case identification, reconciliation workflows, and user-confirmed status tracking for complex records. |
-| **Panda Tower** *(private, in development)* | Mobile-first personal operations and wellness platform exploring dashboard design, data integration, risk indicators, and actionable monitoring. |
+| **Black Eagle** *(private, in development)* | Financial document ingestion, transaction extraction, account reconciliation, exception management, and user-confirmed financial status tracking. |
+| **Legal Case Tracking Platform** *(private, in development)* | Case-number identification, court-record ingestion, procedural tracking, audit trails, and user-reviewed status reconciliation. |\n| **Panda Tower** *(private, in development)* | Mobile-first personal operations and wellness platform exploring dashboard design, data integration, risk indicators, and actionable monitoring. |
 | **Repository-level LLM evaluation** | Benchmark design, deterministic checks, failure-mode analysis, reproducible software tests, and rubric-based quality review. |
 | **Compliance and financial analysis** | Rule-based validation, evidence traceability, structured reports, and financial modeling. |
 | **Supply chain, aviation, and logistics** | Traceability, evidence verification, operational exceptions, and complex process auditing. |
