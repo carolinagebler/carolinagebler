@@ -26,6 +26,10 @@ Multidisciplinary executive and technology professional working on AI model eval
 | **Marketing analytics** | Scenario evaluation, constraint-based selection, and data quality checks. |
 | **GIS and remote sensing** | Geospatial analysis, satellite imagery, and GIS-enabled workflows. |
 
+## Certification and professional recognition
+
+- **micro1 — Certified Talent (October 2026):** Official recognition for *outstanding performance during micro1's AI interview*. Certified talent status confirmed; client project approval and hiring remain pending. [micro1 talent platform](https://micro1.ai/apply-as-talent).
+
 ## Selected impact
 
 - **20+ years** in executive, financial and operational leadership.
