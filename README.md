@@ -6,7 +6,8 @@ Multidisciplinary executive and technology professional working on AI model eval
 
 ## Public code
 
-- **[Python LLM Evaluation Framework](https://github.com/carolinagebler/python-llm-evaluation-framework)** — Original demonstration of criterion-based scoring, JSONL processing, automated unit tests, and GitHub Actions using synthetic examples.
+- **[Python LLM Evaluation Framework](https://github.com/carolinagebler/python-llm-evaluation-framework)** — Original, testable scoring framework with Python, JSONL, unit tests, and CI.
+- **[Company Analysis & Finance Rubric Demo](https://github.com/carolinagebler/python-llm-evaluation-framework/blob/main/examples/company_analysis_and_rubric.md)** — Fictional four-year industrial financial analysis, EBITDA normalization, FCF/leverage metrics, analytical uncertainty, and a weighted 100-point expert rubric.
 
 ## Selected engineering and AI work
 
@@ -34,9 +35,15 @@ Multidisciplinary executive and technology professional working on AI model eval
 
 ## Cross-sector executive experience
 
-- Forestry and biomass operations: eucalyptus resource-base scope of approximately **2 million hectares**, including procurement and supply planning responsibilities.
+- Corporate finance, project development, financial structuring, and investment evaluation across complex markets.
 - International finance, energy trading, agribusiness, logistics, aerospace and project-approval workflows.
 - Languages: **Portuguese (native), English (advanced), Spanish (advanced), German (professional working proficiency)**.
+
+## Demonstrated financial analysis capabilities
+
+- Multi-year P&L, cash flow, leverage, operating working capital and margin analysis
+- One-off normalization and evidence-based investment committee recommendations
+- Financial reasoning rubrics that separate deterministic calculations from professional judgment
 
 ## Technical interests
 
