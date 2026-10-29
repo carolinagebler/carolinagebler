@@ -49,6 +49,10 @@ Multidisciplinary executive and technology professional working on AI model eval
 - One-off normalization and evidence-based investment committee recommendations
 - Financial reasoning rubrics that separate deterministic calculations from professional judgment
 
+## Additional training
+
+- **Private Pilot training:** Course completed; licensing examination pending (not yet a licensed pilot).
+
 ## Technical interests
 
 - Python, JSON, automated validation, and test-driven quality assurance
