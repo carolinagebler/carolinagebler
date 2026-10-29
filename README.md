@@ -51,7 +51,7 @@ Multidisciplinary executive and technology professional working on AI model eval
 
 ## Additional training
 
-- **Private Pilot training:** Course completed; licensing examination pending (not yet a licensed pilot).
+- **Private Pilot:** Course completed; examination passed.
 
 ## Technical interests
 
