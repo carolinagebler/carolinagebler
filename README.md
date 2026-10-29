@@ -53,6 +53,8 @@ Multidisciplinary executive and technology professional working on AI model eval
 
 - **Private Pilot:** Course completed; examination passed.
 
+- **Project Insight Science (Handshake, October 2026):** Selected for additional expert-level scientific AI-agent benchmark work spanning Earth science and climate. Focus areas include domain-grounded reasoning, reproducible evaluation, deterministic validation, and technical QA. Current assignment in progress; proprietary task materials are not public.
+
 ## Technical interests
 
 - Python, JSON, automated validation, and test-driven quality assurance
